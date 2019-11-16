@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">茂职教务管理APP</string>
+    <string name="user">用户名：</string>
+    <string name="password">密码：</string>
+    <string name="yzm">验证码：</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">欢迎回来</string>
+    <string name="connect_to_internet" />
+
+
+</resources>
